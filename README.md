@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="cover-image.jpg" alt="Crawl Code" />
+</p>
+
 # Crawl Code
 
 **This is not a game.** Well, it sorta is, but not really...
