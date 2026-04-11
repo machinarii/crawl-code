@@ -12,6 +12,10 @@ Built for fun.
 
 ![Crawl Code](https://img.shields.io/badge/vibe-coded%20dungeon%20crawler-green)
 
+<p align="center">
+  <img src="screenshot.png" alt="Screenshot" />
+</p>
+
 ## Features
 
 - **First-person dungeon** — Simplified DDA raycasting renderer with distance-based shading, rendered in ANSI truecolor
