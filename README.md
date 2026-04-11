@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cover-image.jpg" alt="Crawl Code" />
+  <img src="image-cover.jpg" alt="Crawl Code" />
 </p>
 
 # Crawl Code
@@ -13,7 +13,7 @@ Built for fun.
 ![Crawl Code](https://img.shields.io/badge/vibe-coded%20dungeon%20crawler-green)
 
 <p align="center">
-  <img src="screenshot.png" alt="Screenshot" />
+  <img src="image-screenshot.png" alt="Screenshot" />
 </p>
 
 ## Features
