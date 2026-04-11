@@ -108,7 +108,7 @@ Start with **Boring Wand**. Defeat monsters for a chance to find:
 - Staff of Reinforcement Learning
 - Wand of Emergent Behavior
 
-## Monsters (30)
+## NPCs
 
 | Monster | Description |
 |---------|-------------|
