@@ -110,7 +110,38 @@ Start with **Boring Wand**. Defeat monsters for a chance to find:
 
 ## Monsters (30)
 
-Hyperparameter Ranger, Lord Vanishing, Gandalf Hinton, BERT Golem, Sir Dropout, Baron Hallucinate, Stochastic Sally, Private Bias, Shadow Latent, Sporacles Softmax, Gelu Ooze, Raspberry Pifiend, Sssscalar Green, Basilissk Purple, AARDMAx, Kermit Loss, Pincer Pruning, Queen Thiccarus, Cycloptimus, Fenrir GAN, Echo Encoder, Antenna Dave, Python Constrictor, Cluckster Stopper, Dead Neurons, Squeaknet, Ghoulash, Slug Convergence, Noisy Bat, Condor Vulture
+| Monster | Description |
+|---------|-------------|
+| Hyperparameter Ranger | Roams the dungeon endlessly, never quite finding the optimal path |
+| Lord Vanishing | Grows weaker with every layer until he simply ceases to exist |
+| Gandalf Hinton | Ancient wizard, father of dark magic, recently left his tower |
+| BERT Golem | Understands everything you say but only in both directions |
+| Sir Dropout | Randomly disappears mid-fight, claims it makes him stronger |
+| Baron Hallucinate | States false things with absolute confidence |
+| Stochastic Sally | Never attacks the same way twice, occasionally hits herself |
+| Private Bias | Insists he's fair while clearly favoring one side |
+| Shadow Latent | You can't see him directly, only his representation |
+| Sporacles Softmax | Distributes damage across the whole party, never commits |
+| Gelu Ooze | Smooth and nonlinear, slightly better than its cousin ReLU Slime |
+| Raspberry Pifiend | Small, underpowered, runs hot, refuses to die |
+| Sssscalar Green | Just a single number but somehow still dangerous |
+| Basilissk Purple | One look at its weights and you're frozen |
+| AARDMAx | Takes the biggest value and ignores everything else |
+| Kermit Loss | It's not easy minimizing green |
+| Pincer Pruning | Snips away anything it deems unnecessary, including your limbs |
+| Queen Thiccarus | Massively overparameterized, flies too close to overfitting |
+| Cycloptimus | One-eyed optimizer, always looking for the minimum |
+| Fenrir GAN | Generates wolves indistinguishable from real ones |
+| Echo Encoder | Repeats everything back at you in a lower dimension |
+| Antenna Dave | Picks up every signal, most of them noise |
+| Python Constrictor | Wraps around you in whitespace-sensitive coils |
+| Cluckster Stopper | A chicken that terminates training early |
+| Dead Neurons | Just stand there. Do nothing. Forever |
+| Squeaknet | Tiny model, surprisingly effective, annoyingly loud |
+| Ghoulash | A hash collision in undead form |
+| Slug Convergence | Approaches you very, very, very slowly |
+| Noisy Bat | Injects random perturbations into everything it touches |
+| Condor Vulture | Circles overhead waiting for your gradient to die |
 
 ## Tech Stack
 
