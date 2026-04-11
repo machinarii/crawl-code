@@ -161,7 +161,3 @@ Start with **Boring Wand**. Defeat monsters for a chance to find:
 
 - **Monster sprites** by [IvoryRed](https://ivoryred.itch.io/pico-8-character-sprite/devlog/814959/new-pack-pico-8-sprites-) — PICO-8 character sprites used for the pixel-art monsters in this demo
 - Inspired by Might and Magic (1986), Eye of the Beholder (1991), and Dungeon Master (1987)
-
-## License
-
-MIT
