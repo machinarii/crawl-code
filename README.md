@@ -77,7 +77,7 @@ npx tsx src/crawl-ollama.ts glm-5.1:cloud
 
 Every exchange with the Oracle:
 1. Your prompt is sent to Ollama
-2. Oracle responds in ye olde English
+2. Oracle responds in Middle English
 3. You step forward in the dungeon
 4. Monster may appear (~25% chance)
 5. Combat auto-resolves over multiple exchanges
