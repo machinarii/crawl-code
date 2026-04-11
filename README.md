@@ -10,7 +10,7 @@ The irony aside, Crawl Code puts a dungeon crawler on top of Ollama. Every promp
 
 Built for fun.
 
-![Crawl Code](https://img.shields.io/badge/Crawl%20Code-green)
+![Crawl Code](https://img.shields.io/badge/Vibe%20Coded-green)
 ![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-blueviolet?logo=claude)
 
 <p align="center">
