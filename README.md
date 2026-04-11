@@ -161,4 +161,5 @@ Start with **Boring Wand**. Defeat monsters for a chance to find:
 ## Credits
 
 - **Monster sprites** by [IvoryRed](https://ivoryred.itch.io/pico-8-character-sprite/devlog/814959/new-pack-pico-8-sprites-) — PICO-8 character sprites used for the pixel-art monsters in this demo
+- **Banner font** — [Ransite Medieval](https://www.dafont.com/ransite-medieval.font) by [mn.sg](http://mn.sg/ransite-medieval) used in the cover image
 - Inspired by Might and Magic (1986), Eye of the Beholder (1991), and Dungeon Master (1987)
