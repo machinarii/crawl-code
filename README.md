@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image-cover.jpg" alt="Crawl Code" />
+  <img src="banner.png" alt="Crawl Code" />
 </p>
 
 # Crawl Code
@@ -14,7 +14,7 @@ Built for fun.
 ![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-blueviolet?logo=claude)
 
 <p align="center">
-  <img src="image-screenshot.png" alt="Screenshot" />
+  <img src="screenshot.png" alt="Screenshot" />
 </p>
 
 ## Features
